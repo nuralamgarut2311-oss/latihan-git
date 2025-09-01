@@ -1,4 +1,4 @@
 Hari Pertama Belajar Node.js dan React
 Hari Kedua Belajar Node.js dan React
-Hari KEtiga Belajar Node.js dan React
+Hari Ketiga Belajar Node.js dan React
 Hari Keempat Belajar Node.js dan React
